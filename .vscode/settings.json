@@ -1,0 +1,7 @@
+{
+	"cmake.configureOnOpen": true,
+	"cmake.configureSettings": {
+		// Replace the path with the correct location to your own vcpkg root
+		"CMAKE_TOOLCHAIN_FILE": "C:/Users/Sam/Development/vcpkg/scripts/buildsystems/vcpkg.cmake"
+	}
+}
